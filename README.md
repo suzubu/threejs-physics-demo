@@ -100,5 +100,5 @@ MIT — feel free to use, adapt, and build on this!
 
 ## 🙋‍♀️ Author
 
-Made with ☕ + 🎧 by [Suzy Dev](https://github.com/suzydev)  
+Made with ☕ + 🎧 by [suzubu](https://github.com/suzubu)
 Feel free to reach out or fork!
