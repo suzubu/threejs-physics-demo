@@ -1,4 +1,4 @@
-# ⚙️ Physics Playground with Three.js + Rapier
+# ⚙️ 3D Physics Demo w/ Three.js + Rapier
 
 > A lightweight 3D physics sandbox built with Three.js and Rapier, demonstrating interactive motion, central force attraction, and real-time mouse influence.
 
@@ -18,7 +18,7 @@ These instructions will get the physics playground running locally.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourname/threejs-rapier-playground.git
+git clone https://github.com/suzubu/3d-physics-demo.git
 
 # 2. Navigate into the project folder
 cd threejs-rapier-playground
